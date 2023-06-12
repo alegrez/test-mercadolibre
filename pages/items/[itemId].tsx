@@ -21,7 +21,6 @@ export default function Item() {
                 fetch(`/api/items/${itemId}`)
                     .then((response) => response.json())
                     .then((itemDetail: ItemDetailDTO) => {
-                        console.log(itemDetail)
                         setItemDetail(itemDetail)
                     })
             }

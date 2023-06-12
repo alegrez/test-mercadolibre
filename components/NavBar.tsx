@@ -12,7 +12,6 @@ export default function NavBar() {
     const [query, setQuery] = useState("")
 
     async function searchResults() {
-        console.log("holi")
         setSearching(true)
         try {
             router.push('/items', undefined, { shallow: true })
