@@ -1,6 +1,6 @@
 Repo para test de MercadoLibre
 
-El proyecto está hecha sobre el framework Next.js.
+El proyecto está hecho sobre el framework Next.js.
 Instrucciones para levantar el proyecto:
 - abrir consola y ubicarse en esta carpeta (test-mercadolibre)
 - ejecutar npm install para instalar dependencias
