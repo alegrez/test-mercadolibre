@@ -6,4 +6,4 @@ Instrucciones para levantar el proyecto:
 - ejecutar npm install para instalar dependencias
 - ejecutar npx next build para compilar el proyecto
 - ejecutar npx next start para levantar el proyecto
-- Ingresar a http://localhost:3000 desde el navegador.
+- ingresar a http://localhost:3000 desde el navegador.
